@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://manispit.github.io/sitemap.html.gz
+Sitemap: https://manispit.github.io/app/sitemap.html.gz
+Sitemap: https://manispit.github.io/assets/sitemap.html.gz
+Sitemap: https://manispit.github.io/css/sitemap.html.gz
+Sitemap: https://manispit.github.io/includes/sitemap.html.gz
+Sitemap: https://manispit.github.io/item/sitemap.html.gz
+Sitemap: https://manispit.github.io/src/sitemap.html.gz
